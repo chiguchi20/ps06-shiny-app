@@ -12,8 +12,6 @@ library(tidyverse)
 
 SLR <- read_delim("GMSL_TPJAOS_5.1_199209_202212.csv")
 
-#colors <- c("cyan2", "darkolivegreen1", "darksalmon")
-
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   tabsetPanel(
