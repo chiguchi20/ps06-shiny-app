@@ -1,0 +1,13 @@
+name: ps06-shiny-app
+title: ps06-shiny-app
+username:
+account: chiguchi20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8495564
+bundleId: 6923473
+url: https://chiguchi20.shinyapps.io/ps06-shiny-app/
+when: 1678144655.36284
+lastSyncTime: 1678144655.36286
+asMultiple: FALSE
+asStatic: FALSE
